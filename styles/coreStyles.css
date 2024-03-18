@@ -7,12 +7,22 @@ h2 {
   font: 2em sans-serif;
 }
 label {
-  color: rgb(6, 86, 65);
+  color: rebeccapurple;
+  font: 1em sans-serif;
   font-weight: bold;
 }
 p{
-  color:  rgb(6, 86, 65);
-  font: 1em sans-serif 500;
+  color: rebeccapurple;
+  font: 1em sans-serif;
+  font-weight: bold;
+}
+.formRadioLabel {
+  color: rgb(6, 86, 65);
+  font-weight: bold;
+}
+#submit{
+  color: darkblue;
+  font-weight: bold;
 }
 footer {
   color: rgb(6, 90, 16);
