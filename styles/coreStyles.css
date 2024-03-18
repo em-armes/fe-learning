@@ -1,28 +1,39 @@
 h1 {
     color: rebeccapurple;
     font: 2em sans-serif bold;
+    padding: 10px 10px;
 }
 h2 {
   color: rebeccapurple;
-  font: 2em sans-serif;
+  font: 1.5em sans-serif;
+  padding: 10px 10px;
 }
 label {
   color: rebeccapurple;
   font: 1em sans-serif;
   font-weight: bold;
+  padding: 10px 5px;
 }
 p{
   color: rebeccapurple;
   font: 1em sans-serif;
   font-weight: bold;
+  padding: 10px 10px;
+}
+input{
+  color: rgb(6, 86, 65);
+  font: 1em sans-serif;
+  margin: 5px;
 }
 .formRadioLabel {
   color: rgb(6, 86, 65);
   font-weight: bold;
+  padding: 10px 10px;
 }
 #submit{
   color: darkblue;
   font-weight: bold;
+  margin: 10px;
 }
 footer {
   color: rgb(6, 90, 16);
